@@ -1,0 +1,3 @@
+Up to date
+Usage: program <CSVFilePath> <Separator> <HasHeader>
+You passed the following arguments: ["/Users/mansurminnikaev/Downloads/books_trimmed.csv",",","True","-"]
